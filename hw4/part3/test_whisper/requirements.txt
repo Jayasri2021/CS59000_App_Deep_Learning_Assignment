@@ -1,0 +1,8 @@
+transformers>=4.41
+accelerate
+torch
+torchaudio
+gradio
+librosa
+soundfile
+ffmpeg-python
